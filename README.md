@@ -1,3 +1,3 @@
-//this is first feature
+this is first feature
 PRINT("HELLO WORLD")
-//Hi world
+Hi world
